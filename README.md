@@ -19,6 +19,7 @@ COCO的maskrcnn预训练权重h5  链接：https://pan.baidu.com/s/15-TXR0U2ft11
 
 Added Chinese and Naxi detection data set.
 
+XML: https://github.com/yddcode/yolo-keras/tree/main/VOCdevkit/VOC2007
 labelme 生成的json文件：
 
 链接：https://pan.baidu.com/s/1M-h4H6UL1PGztUaWMyLlZQ 提取码：hre8
